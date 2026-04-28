@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+:root:{
+    --bg-lemon:#FFF1DA;
+}
+
+body {
+    background-image: url(/Decore\ \(1\).svg);
+    background-color: var(--bg-lemon);
+    background-repeat: no-repeat;
+    background-position: top right;
+    padding-left: 10%;
+    padding-right: 10%;
+    object-fit: cover;
+}
+
+
+
