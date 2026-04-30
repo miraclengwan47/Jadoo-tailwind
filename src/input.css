@@ -14,5 +14,12 @@ body {
     object-fit: cover;
 }
 
+@theme {
+    --color-brandy: #747DEF;
+}
+
+
+
+
 
 
